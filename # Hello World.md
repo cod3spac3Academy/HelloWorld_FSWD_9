@@ -20,7 +20,7 @@ Bienvenido a la nave, ¡despegamos!
 ```
 
 | id | Alias | Nombre | Apellido | Repositorio |
-| :8: | :rivi21: | :Javier: | :Rivas: | :Ejercicio-Final: |
+| :8: | :rivi21: | :Javier: | :Rivas: | :https://github.com/rivi21/Ejercicio_CSS.git: |
 
 
 
