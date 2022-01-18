@@ -20,7 +20,8 @@ Bienvenido a la nave, ¡despegamos!
 ```
 
 | id | Alias | Nombre | Apellido | Repositorio |
-| :-------: | :-------: | :------: | :------: | :-------: |
+| :---:| :---: | :---: | :---: | :---: |
+| 1 | Javiergda | Javier | Garcia | proximamente... |
 
 
 
