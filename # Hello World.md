@@ -21,6 +21,7 @@ Bienvenido a la nave, ¡despegamos!
 
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
+| 1 | DaveSG1 | David | Serna | sin repositorios publicos |
 
 
 
