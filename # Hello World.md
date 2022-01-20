@@ -21,6 +21,7 @@ Bienvenido a la nave, ¡despegamos!
 
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
+| #3 | develop_rivi21 | Javier | Rivas | https://github.com/rivi21/Ejercicio_CSS.git |
 
 
 
