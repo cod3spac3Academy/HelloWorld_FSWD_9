@@ -52,7 +52,7 @@ for ($i = 0; $i < sizeof($datos); $i++) {
         Forbidden, restricted area!.
         </div>';
 
-            echo '<a href="index.php" class="badge badge-dark">Dark </a>';
+            echo '<a href="index.php" class="link link-dark">Back to Login </a>';
         }
 
         ?>
