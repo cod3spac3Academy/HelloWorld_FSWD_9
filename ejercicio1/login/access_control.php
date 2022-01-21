@@ -1,3 +1,7 @@
+<!-- En este archivo, si usamos el comando $_POST recibiremos gracias a la palabra reservada POST usada para el metodo en la otra pagina 
+Poniendo $_POST['email'] por ej recibiremos el email q viene del input email del formulario de la otra pagina (del name="email" de la otra pagina) 
+o poniendo $_POST['password'] por ej recibiremos el password q viene del input password del formulario de la otra pagina (del name="password" de la otra pagina) -->
+
 <?php
 
 /* print_r($_POST); */
@@ -23,6 +27,8 @@ for ($i = 0; $i < sizeof($datos); $i++) {
 
 ?>
 
+
+
 <!doctype html>
 <html lang="en">
 
@@ -31,13 +37,16 @@ for ($i = 0; $i < sizeof($datos); $i++) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Bootstrap CSS -->
+    <!-- Para linkar Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title></title>
 </head>
 
+
 <body>
+
+    <!-- Esto de aqui es lo q va a mostrar realmente la web como resultados: -->
 
 
     <div class="container-fluid bg-light mx-3 my-3">
