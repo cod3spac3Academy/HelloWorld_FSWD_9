@@ -21,7 +21,7 @@ Bienvenido a la nave, ¡despegamos!
 
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
-| 02 | RosaNarMu | Rosa | Narváez | [Proyecto](https://github.com/RosaNarMu/GifSearch) |
+| 01 | RosaNarMu | Rosa | Narváez | [Proyecto](https://github.com/RosaNarMu/GifSearch) |
 
 
 # More info
