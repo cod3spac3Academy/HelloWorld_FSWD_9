@@ -21,6 +21,7 @@ Bienvenido a la nave, ¡despegamos!
 
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
+| 00 | Ch3ssMaster | Antonio | Cebrián | [Proyecto](https://github.com/Ch3ssMaster/bitgames) |
 | 01 | RosaNarMu | Rosa | Narváez | [Proyecto](https://github.com/RosaNarMu/GifSearch) |
 
 
