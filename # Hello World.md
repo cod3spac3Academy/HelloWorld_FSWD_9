@@ -7,7 +7,7 @@
 
 # Qué es este proyecto Hello-World?
 ```
-Este repositorio es una adaptación de la guía oficial de github 'guides-lines'. 
+Este repositorio es una adaptación de la guía oficial de github 'guide-lines'. 
 Será nuestro punto de partida, como trabajo en equipo.
 
 Forkea este repo y añade tu rama -> develop_{alias}. Desde tu rama:
